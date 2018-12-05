@@ -24,4 +24,4 @@ This screws into the top of the base to cover it using M3x8 screws.
 This is the Raspberry Pi3 mount module.  Screws onto the right base with M3x6 screws.  The Pi screws to it using M2.5x6 screws.
 
 ## Regulator Mount: 
-This is for mounting LM2596 regulators and the MOSFET modules from Amazon.
+This is for mounting LM2596 regulators and the MOSFET modules from Amazon.  Screws to the base using M3x6 screws.
