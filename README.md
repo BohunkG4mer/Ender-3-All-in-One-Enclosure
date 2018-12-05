@@ -17,4 +17,4 @@ Many improvements have been made and will continue to be made since the original
 This Github project will let you follow the progress of my design journey, submit issues and design improvement suggestions, request additional modules and/or versions of parts, request added component compatibility, among other things. It is also the place to download all STLs and Source files, as I don't want to have to manage two separate pages and websites with the same files.
 
 
-![Image of Enclosure Rendered](https://imgur.com/a/7V5CoWO)
+![](https://imgur.com/a/7V5CoWO)
