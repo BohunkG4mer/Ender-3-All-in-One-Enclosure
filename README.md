@@ -1,4 +1,4 @@
-# Ender-3-All-in-One-Enclosure
+# Ender 3 All in One Modular Electronics Enclosure
 
 
 This project is about making an all-in-one solution for upgrading your Ender 3 electronics. I started with the good old Ender 3, but quickly realized I wanted to expand the Ender 3's capabilities, and upgrade the original mainboard. I looked on Thingiverse, but couldn't really find a solution I liked. Thus began the journey of creating my own, all in one solution. I'm not new to CAD, but this is my first major project and my first Github thing, so bear with me and I'm totally open to suggestions and improvements.
