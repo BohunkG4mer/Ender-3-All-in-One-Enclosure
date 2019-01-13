@@ -5,7 +5,7 @@ This project is about making an all-in-one solution for upgrading your Ender 3 e
 
 Initially I started with these goals in mind:
 
-- Be able to fit many types of mainboards, including the MKS Gen 1.4, MKS Gen L, and the stock mainboard.
+- Be able to fit many types of mainboards, including the MKS Gen 1.4 and MKS Gen L.
 - Be able to fit a Raspberry Pi internally for permanent installment, for use with Klipper firmware.
 - Have a modular design to allow customization for the user's desires.
 - Of course, have it all printable on a stock Ender 3.
