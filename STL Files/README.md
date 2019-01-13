@@ -25,3 +25,7 @@ This is the Raspberry Pi3 mount module.  Screws onto the right base with M3x6 sc
 
 ## Regulator Mount: 
 This is for mounting LM2596 regulators and the MOSFET modules from Amazon.  Screws to the base using M3x6 screws.
+
+## Base Left Front Panel Card Reader
+For use with an Arduino SD Card reader.  Untested.
+https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJWNC/ref=sr_1_4?ie=UTF8&qid=1547362677&sr=8-4&keywords=arduino+sd+card+reader
