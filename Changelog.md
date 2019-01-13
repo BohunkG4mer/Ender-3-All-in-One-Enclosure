@@ -15,5 +15,6 @@ All notable changes to this project will be documented in this file.
 -Removed vertical grills from the back part of the base pieces.  Not only did they serve no purpose because they were against the 4040 extrusion in the back anyway, they increased printing time by a lot due to the printer having to print lots of individual towers instead of just one big wall.
 
 ## [2.0.1] - 2018-1-13
-### Added Base Left Front Panel SD Reader.  This allows you to use a Arduino SD Card reader with your MKS mainboard.  Untested.
+### Added Base Left Front Panel SD Reader.  
+- This allows you to use a Arduino SD Card reader with your MKS mainboard.  Untested.
 https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJWNC/ref=sr_1_4?ie=UTF8&qid=1547362677&sr=8-4&keywords=arduino+sd+card+reader
