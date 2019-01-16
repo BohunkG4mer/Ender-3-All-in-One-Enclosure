@@ -29,3 +29,7 @@ This is for mounting LM2596 regulators and the MOSFET modules from Amazon.  Scre
 ## Base Left Front Panel Card Reader
 For use with an Arduino SD Card reader.  Untested.
 https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJWNC/ref=sr_1_4?ie=UTF8&qid=1547362677&sr=8-4&keywords=arduino+sd+card+reader
+
+
+## Base Cover Left 80mm Fan
+For use with a 80x10 or 80x25 fan.  Fan will mount on top of the cover as there's probably not sufficient room under it.  A 80x10 fan might work under the cover, but a 80x25 will definitely not.
