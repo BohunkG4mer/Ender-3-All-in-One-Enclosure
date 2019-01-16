@@ -18,3 +18,7 @@ All notable changes to this project will be documented in this file.
 ### Added Base Left Front Panel SD Reader.  
 - This allows you to use a Arduino SD Card reader with your MKS mainboard.  Untested.
 https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJWNC/ref=sr_1_4?ie=UTF8&qid=1547362677&sr=8-4&keywords=arduino+sd+card+reader
+
+## [2.0.2] - 2018-1-16
+### Added Base Cover Left 80mm Fan.
+- This allows the use of a 80mm fan for mainboard cooling.  A 80x10 fan would be ideal, but a 80x25 fan should fit on top of the cover without colliding with the bed.
