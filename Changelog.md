@@ -22,3 +22,7 @@ https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJ
 ## [2.0.2] - 2018-1-16
 ### Added Base Cover Left 80mm Fan.
 - This allows the use of a 80mm fan for mainboard cooling.  A 80x10 fan would be ideal, but a 80x25 fan should fit on top of the cover without colliding with the bed.
+
+## [2.0.3] - 2018-1-18
+### Add support for MKS Rumba V1.0
+- Add mounting points for MKS Rumba.  User requested.  Untested.
