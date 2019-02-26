@@ -20,6 +20,9 @@ This screws into the top of the base to cover it using M3x8 screws.
 ## Base Cover Right:
 This screws into the top of the base to cover it using M3x8 screws.
 
+## Base Cover Left 60mm Fan
+This screws into the top of the base to cover it using M3x8 screws.
+
 ## RPi 3 Mount:
 This is the Raspberry Pi3 mount module.  Screws onto the right base with M3x6 screws.  The Pi screws to it using M2.5x6 screws.
 
