@@ -26,3 +26,6 @@ https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJ
 ## [2.0.3] - 2018-1-18
 ### Add support for MKS Rumba V1.0
 - Add mounting points for MKS Rumba.  User requested.  Untested.
+
+## [2.0.4] - 2018-2-26
+### Add Base Cover Left with 60mm Fan Holes
