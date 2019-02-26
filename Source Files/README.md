@@ -34,4 +34,7 @@ https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJ
 For use with a 80x10 or 80x25 fan.  Fan will mount on top of the cover as there's probably not sufficient room under it.  A 80x10 fan might work under the cover, but a 80x25 will definitely not.
 
 ## Base Cover Left 60mm Fan
-This screws into the top of the base to cover it using M3x8 screws.
+Added 60mm Fan version of Base Cover Left.
+
+## Base Cover Right 80mm Fan
+Added 80mm Fan Version of Base Cover Right.
