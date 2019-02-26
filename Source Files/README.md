@@ -20,9 +20,6 @@ This screws into the top of the base to cover it using M3x8 screws.
 ## Base Cover Right:
 This screws into the top of the base to cover it using M3x8 screws.
 
-## Base Cover Left 60mm Fan
-This screws into the top of the base to cover it using M3x8 screws.
-
 ## RPi 3 Mount:
 This is the Raspberry Pi3 mount module.  Screws onto the right base with M3x6 screws.  The Pi screws to it using M2.5x6 screws.
 
@@ -35,3 +32,6 @@ https://smile.amazon.com/WINGONEER-reader-module-interface-conversion/dp/B06XHJJ
 
 ## Base Cover Left 80mm Fan
 For use with a 80x10 or 80x25 fan.  Fan will mount on top of the cover as there's probably not sufficient room under it.  A 80x10 fan might work under the cover, but a 80x25 will definitely not.
+
+## Base Cover Left 60mm Fan
+This screws into the top of the base to cover it using M3x8 screws.
